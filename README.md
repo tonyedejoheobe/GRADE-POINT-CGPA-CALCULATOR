@@ -12,7 +12,7 @@ A program to calculate grade point average (SGPA) for a set of code
 ## How To Use
 
 1. Duplicate this repository 
-2. Run the `Grade_point_calculator.py` file. 
+2. Run the `Grade_point_calculator.py file. 
 3. Follow the prompt to enter the required informations. 
 4. The program would display the calculated SGPA
 
